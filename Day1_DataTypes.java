@@ -1,7 +1,8 @@
 
+
 import java.util.*;
 
-public class Solution {
+public class Day1_DataTypes {
     public static void main(String[] args) {
 
         int i = 4;
